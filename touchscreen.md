@@ -4,7 +4,10 @@ With KMS introduced as the default graphics mode, and there are many
 arguments for it, and then moving to bullseye on top introduced some new
 issues with the official 7" DSI connected touch screen. One of these issues
 is that rotation of the screen and touch somewhat differs from the official
- documentation found at the time of release of bullseye in November 2021.
+documentation found at the time of release of bullseye in November 2021.
+There is at least one [thread on the raspberry pi forums](https://forums.raspberrypi.com/viewtopic.php?p=1937650#p1937650) 
+that discuss this issue.
+
 
 ## Rotate the GUI 180 degrees
 This is what I did to rotate screen and touch 180 degrees. This will not 
